@@ -2,7 +2,7 @@
 # Random Activity Generator Project
 
 🎉 Welcome to the Random Activity Generator project! 🚀
-![](https://cdn.shopify.com/s/files/1/0298/3968/7725/files/Random_Activity_Generator_-_Banner-100_2048x2048.jpg?v=1693561379)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQcbXFIyMcOonJ2Dpqp97bba8K51ybWx4qxmNrjYptVVUlGrztECrEBvcz9f7upHsuII&usqp=CAU)
 
 ## Getting Started
 
