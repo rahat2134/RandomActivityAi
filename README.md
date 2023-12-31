@@ -2,6 +2,7 @@
 # Random Activity Generator Project
 
 🎉 Welcome to the Random Activity Generator project! 🚀
+![Alt text](image.png)
 
 ## Getting Started
 
