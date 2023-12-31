@@ -50,11 +50,6 @@ Visit [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 ## Customizing the Project
 
-### Change Image or Cartoon
-
-1. Find or create an image.
-2. Replace `'https://example.com/path-to-your-image.jpg'` in `RandomActivity.js` with the actual image URL.
-
 ### Add Your Own Features
 
 Feel free to enhance the project with your own ideas and features! 🚀
