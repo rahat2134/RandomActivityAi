@@ -2,7 +2,7 @@
 # Random Activity Generator Project
 
 🎉 Welcome to the Random Activity Generator project! 🚀
-![Alt text](randomactivityproject/image.png)
+![randomactivityproject/image.png]()
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/RandomActivityProject.git
+git clone https://github.com/Rahat2134/RandomActivityProject.git
 ```
 
 ### Navigate to Project Directory
