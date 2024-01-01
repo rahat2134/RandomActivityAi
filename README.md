@@ -66,4 +66,3 @@ Special thanks to contributors and libraries that made this project possible.
 🎉 Happy coding! 🚀
 ```
 
-This README includes clear instructions, emojis, and a friendly tone to make it engaging for users. Remember to replace placeholders like `your-username` and customize URLs according to your project.
