@@ -38,8 +38,6 @@ Visit [http://localhost:3000/](http://localhost:3000/) in your browser.
 ✨ Here's what you'll find in this project:
 
 - **Random Activity Generator**: Click a button to get a random activity suggestion!
-- **Customizable**: Add your own images or cartoons to make it uniquely yours.
-
 ## Project Structure
 
 - `src/`: Contains the source code.
